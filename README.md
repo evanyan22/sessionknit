@@ -21,7 +21,9 @@ SessionKnit extracts the approach production coding agents use internally as a p
 
 > **Status: v1, in progress.** Chain reconstruction, topology repair for
 > parallel-call siblings, and interruption detection all work end-to-end
-> (see `ts/README.md`). Not yet published.
+> (see `ts/README.md`). Published:
+> [`sessionknit` on PyPI](https://pypi.org/project/sessionknit/),
+> [`sessionknit` on npm](https://www.npmjs.com/package/sessionknit).
 
 ---
 

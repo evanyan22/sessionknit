@@ -41,5 +41,5 @@ pytest
 ## Status
 
 Chain reconstruction, topology repair, the async write-behind queue, and
-interruption detection are real and tested. Not yet published to PyPI —
-`sessionknit` is unclaimed there.
+interruption detection are real and tested. Published as
+[`sessionknit`](https://pypi.org/project/sessionknit/) on PyPI.
